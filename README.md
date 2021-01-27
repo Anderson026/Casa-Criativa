@@ -17,4 +17,4 @@
 - Instale as dependências com o comando (npm install)
 - Acesse no navegador no (http://localhost:3000)
 
-<p align="start">Projeto feito para aprende de forma prática dos conceitos de HTML, CSS e JS.</p>
+<p align="start">Projeto feito para aprender de forma prática dos conceitos de HTML, CSS e JS.</p>
